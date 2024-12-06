@@ -1,0 +1,5 @@
+langgraph>=0.0.15
+langchain-community
+langchain-openai
+langchain-experimental
+python-dotenv
