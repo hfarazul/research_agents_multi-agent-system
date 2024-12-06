@@ -1,4 +1,4 @@
-# Multi-Agent Supervisor System
+# Multi-Agent research assistant
 
 A structured implementation of a multi-agent system with a supervisor that delegates tasks between specialized agents.
 
